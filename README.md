@@ -14,9 +14,9 @@
 > <sup>1</sup> Co-first authors. \* Corresponding authors.
 
 📄 [Paper (ScienceDirect)](https://doi.org/10.1016/j.atech.2025.101641)
-dataset:https://115cdn.com/s/sws7zws3wqv?password=1234&#
-UAV_dataset.rar
-code:1234
+
+dataset:https://115cdn.com/s/sws7zws3wqv?password=1234&#UAV_dataset.rar
+
 ---
 
 ## 🌾 Overview
